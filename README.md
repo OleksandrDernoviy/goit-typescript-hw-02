@@ -34,7 +34,7 @@ anything = {};
 let some:unknown;
 some = 'Text';
 let str: string;
-str = some;
+str = some ;
 ```
 Що потрібно виправити в цьому коді, щоб він став правильним та безпечним?
 
